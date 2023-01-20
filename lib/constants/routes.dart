@@ -1,0 +1,1 @@
+const myProfileRoute = '/my/profile';
